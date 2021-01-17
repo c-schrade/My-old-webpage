@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Christoph Schrade
-description: 
+description: ''
+github:
+  is_project_page: false
