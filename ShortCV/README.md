@@ -12,7 +12,7 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://c-schrade.github.io/ShortCV">
-    Short CV
+    <u>Short CV</u>
   </a>
 </h1>  
 <br />
