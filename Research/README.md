@@ -8,7 +8,7 @@
   <a href="Teaching">
     Teaching &nbsp; &nbsp;
   </a>
-  <a href="Short CV">
+  <a href="ShortCV">
     Short CV
   </a>
 </h1>  
