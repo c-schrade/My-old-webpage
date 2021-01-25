@@ -4,7 +4,7 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://c-schrade.github.io/Research">
-    Research 
+    <u>Research</u> 
   </a>
   &nbsp; &nbsp;
   <a href="https://c-schrade.github.io/Teaching">
