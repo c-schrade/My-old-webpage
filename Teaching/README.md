@@ -1,14 +1,17 @@
 <h1>
-  <a href="">
-    Home &nbsp; &nbsp;
+  <a href="https://c-schrade.github.io">
+    Home 
   </a>
-  <a href="Research">
-    Research &nbsp; &nbsp;
+  &nbsp; &nbsp;
+  <a href="https://c-schrade.github.io/Research">
+    Research 
   </a>
-  <a href="Teaching">
-    Teaching &nbsp; &nbsp;
+  &nbsp; &nbsp;
+  <a href="https://c-schrade.github.io/Teaching">
+    Teaching 
+    &nbsp; &nbsp;
   </a>
-  <a href="ShortCV">
+  <a href="https://c-schrade.github.io/ShortCV">
     Short CV
   </a>
 </h1>  
