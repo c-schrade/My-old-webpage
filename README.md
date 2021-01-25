@@ -1,6 +1,6 @@
 <h1>
   <a href="">
-    Home 
+    <u>Home</u>
   </a>
   &nbsp; &nbsp;
   <a href="Research">
