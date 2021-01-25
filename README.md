@@ -21,12 +21,12 @@
 <br />
 <br />
 ### Contact information
-Mathematisches Institut
-Fachbereich Mathematik und Informatik der Universität Münster
-Einsteinstrasse 62
-48149 Münster
-Germany
-
-Office: 507
-Phone: +49 251 83-32672
+Mathematisches Institut <br />
+Fachbereich Mathematik und Informatik der Universität Münster <br />
+Einsteinstrasse 62 <br />
+48149 Münster <br />
+Germany <br />
+<br />
+Office: 507 <br />
+Phone: +49 251 83-32672 <br />
 Email: cschrad1@uni-muenster.de
