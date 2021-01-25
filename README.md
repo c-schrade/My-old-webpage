@@ -3,10 +3,10 @@
     Research   
   </a>
   <a href="Teaching   ">
-    Teaching
+      Teaching
   </a>
   <a href="##">
-    Short CV
+      Short CV
   </a>
 </h1>  
 <br />
