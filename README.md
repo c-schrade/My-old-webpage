@@ -1,13 +1,16 @@
 <h1>
   <a href="">
-    Home &nbsp; &nbsp;
+    Home 
   </a>
+  &nbsp; &nbsp;
   <a href="Research">
-    Research &nbsp; &nbsp;
+    Research 
   </a>
+  &nbsp; &nbsp;
   <a href="Teaching">
-    Teaching &nbsp; &nbsp;
+    Teaching 
   </a>
+  &nbsp; &nbsp;
   <a href="ShortCV">
     Short CV
   </a>
