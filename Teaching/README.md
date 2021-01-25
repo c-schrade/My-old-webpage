@@ -8,9 +8,9 @@
   </a>
   &nbsp; &nbsp;
   <a href="https://c-schrade.github.io/Teaching">
-    Teaching 
-    &nbsp; &nbsp;
+    <u>Teaching</u>
   </a>
+  &nbsp; &nbsp;
   <a href="https://c-schrade.github.io/ShortCV">
     Short CV
   </a>
