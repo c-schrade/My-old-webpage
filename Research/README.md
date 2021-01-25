@@ -1,7 +1,8 @@
 <h1>
-  <a href="">
-    Home &nbsp; &nbsp;
+  <a href="https://c-schrade.github.io">
+    Home 
   </a>
+  &nbsp; &nbsp;
   <a href="Research">
     Research &nbsp; &nbsp;
   </a>
