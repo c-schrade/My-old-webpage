@@ -21,7 +21,7 @@
 <br />
 <br />
 ### B.Sc. Mathematics/Economics (2008-2011)
-TU Munich, Title of the Bachelor thesis: "Grundlagen der Differentialtopologie und der Satz von Poincar &eacute; -Hopf" (supervised by Bernd Schmidt)
+TU Munich, Title of the Bachelor thesis: "Grundlagen der Differentialtopologie und der Satz von Poincar&eacute;-Hopf" (supervised by Bernd Schmidt)
 ### M.Sc. Mathematics (2011-2014)
 LMU Munich, Title of the Master thesis: "Sullivans Beweis der Adamsschen Vermutung" (supervised by Fabien Morel)
 ### Ph.D. Pure Mathematics (2014-2018)
