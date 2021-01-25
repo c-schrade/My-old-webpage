@@ -1,14 +1,16 @@
 <h1>
   <a href="#">
-    Research
+    Research   
   </a>
-  <a href="Teaching">
+  <a href="Teaching   ">
     Teaching
   </a>
   <a href="##">
     Short CV
   </a>
 </h1>  
+<br />
+<br />
 <br />
 <br />
 <br />
