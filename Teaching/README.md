@@ -15,8 +15,7 @@
     Short CV
   </a>
 </h1>  
-<br />
-<br />
+
 
 ## Winter Term 20/21
 * Assistant for the lecture "Spiegelungsgruppen und platonische Körper" (Lecture given by Lutz Hille)
