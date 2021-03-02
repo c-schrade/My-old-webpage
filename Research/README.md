@@ -15,11 +15,6 @@
     Short CV
   </a>
 </h1>  
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ## Articles and Preprints
 * <i>Higher weak (co)limits, adjoint functors and higher Brown representability</i> <br />
