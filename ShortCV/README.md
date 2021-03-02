@@ -17,9 +17,6 @@
 </h1>  
 <br />
 <br />
-<br />
-<br />
-<br />
 ### PostDoc-Position (2018-2021)
 WWU Münster, working group of Thomas Nikolaus
 ### Ph.D. Pure Mathematics (2014-2018)
