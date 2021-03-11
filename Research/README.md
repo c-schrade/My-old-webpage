@@ -18,7 +18,7 @@
 
 ## Articles and Preprints
 * <i>Higher weak (co)limits, adjoint functors and higher Brown representability</i> <br />
-  with H. K. Nguyen and G. Raptis.
+  with H. K. Nguyen and G. Raptis.[arXiv](https://arxiv.org/abs/2103.06003)
 * <i>Adjoint functor theorems for &infin;-categories</i> <br />
   with H. K. Nguyen and G. Raptis,  J. London Math. Soc. 101 (2020), no. 2, 659-681.[arXiv](https://arxiv.org/abs/1803.01664)
 
